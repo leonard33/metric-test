@@ -1,46 +1,59 @@
-# Getting Started with Create React App and Redux
+# Metric test
+This is a test interview project on React. 
+ 
+## Built With
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+- HTML
+- css
+- javascript
+- React
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+To get a local copy up and running follow these simple example steps.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
+A web browser (e.g. Mozilla Firefox, Google Chrome etc.)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git: This is a version control system used for source code management.
 
-### `npm test`
+A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Basic knowledge on HTML Javascript React and CSS.
 
-### `npm run build`
+### Setup
+With git, clone the code to your machine, or download the files directly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+git clone https://github.com/leonard33/metric-test.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Once the files are on your machine, open the bookstore-cms folder in Visual Studio Code.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Deployment
+After opening the files in Visual studio code.
+npm install to install the node modules.
+Open terminal and run the following commands. npm start.
 
-### `npm run eject`
+## Authors
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👤 **Leonard Kombo**
+- GitHub: [@githubhandle](https://github.com/leonard33)
+- Twitter: [@twitterhandle](https://twitter.com/leonardkombo1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/leonardkombo)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributions, issues, and feature requests are welcome!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Show your support
 
-## Learn More
+Give a ⭐️ if you like this project!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Acknowledgments
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
