@@ -1,0 +1,103 @@
+.transactions {
+  display: flex;
+  width: 60%;
+  justify-content: space-around;
+}
+
+.serch-pack {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: #2196f3;
+}
+
+.search-percentage {
+  display: flex;
+  align-items: center;
+}
+
+.badge {
+  border-radius: 15px;
+  margin-left: 10px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  background-color: green;
+  text-align: center;
+  padding: 2px;
+  color: #ffffff;
+}
+
+.titleright {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #4A4A4A;
+}
+
+.yesteday {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #4A4A4A;
+}
+
+.yest {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #4A4A4A;
+}
+
+.titleleft,
+.subtitle {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  color: #4A4A4A;
+}
+
+.description {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #A0B0B9;
+}
+
+.permison {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: #2196f3;
+}
+
+.help {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: #4A4A4A;
+}
+
+hr {
+  width: 50%;
+  margin-left: -5px;
+}
