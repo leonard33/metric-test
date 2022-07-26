@@ -44,8 +44,8 @@ const Lastday = () => {
         titleright="Sales"
         yesterday={records.data[0].sales_last_hour || 0}
         friday={records.data[0].sales_previous_yesterday || 0}
-        titleleft="Mobile traffic 100%"
-        subtitle="Mobile traffic 100%"
+        titleleft="STR 6.2%"
+        subtitle="AVG. Check:8903"
         description="you get 100% on mobile and desktop device"
         permision="searches, permision"
       />

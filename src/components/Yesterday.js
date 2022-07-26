@@ -44,8 +44,8 @@ const Yesterday = () => {
         titleright="Sales"
         yesterday={records.data[0].sales_yesterday}
         friday={29380}
-        titleleft="Mobile traffic 100%"
-        subtitle="Mobile traffic 100%"
+        titleleft="STR 6.2%"
+        subtitle="AVG. Check:8903"
         description="you get 100% on mobile and desktop device"
         permision="searches, permision"
       />
