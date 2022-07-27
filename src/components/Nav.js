@@ -19,7 +19,7 @@ const Nav = () => {
           <Link className="linking" to="yesterday">
             <li>Yesterday</li>
           </Link>
-          <Link className="linking" to="today">
+          <Link className="linking" to="lastthreedays">
             <li>Last 3 days</li>
           </Link>
         </ul>
